@@ -5,8 +5,7 @@ Projeto individual do terceiro semestre com o tema **Viagens**. O repositório c
 ```text
 projeto-individual-3semestre-tripping/
 ├── trip-ping-web/    # React e CSS Modules
-├── tripping.app/     # Java, Spring Boot e JdbcTemplate
-└── docs/API.md       # Contrato da integração
+└── tripping.app/     # Java, Spring Boot e JdbcTemplate
 ```
 
 ## Executar
