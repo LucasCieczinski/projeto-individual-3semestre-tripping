@@ -19,5 +19,4 @@ projeto-individual-3semestre-tripping/
 
 - [Executar o front-end](trip-ping-web/README.md)
 - [Executar o back-end](tripping.app/README.md)
-- [Contrato completo da API](docs/API.md)
 - [Script PostgreSQL](tripping.app/src/main/resources/schema.sql)
