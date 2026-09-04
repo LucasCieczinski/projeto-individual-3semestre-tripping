@@ -1,6 +1,6 @@
 # TripPing
 
-Projeto individual do terceiro semestre com o tema **Viagens**. O repositório contém o front-end React e a API REST Spring Boot.
+Projeto individual do terceiro semestre com o tema **Turismo**. O repositório contém o front-end React e a API REST Spring Boot.
 
 ```text
 projeto-individual-3semestre-tripping/
